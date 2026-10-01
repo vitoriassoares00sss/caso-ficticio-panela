@@ -1,4 +1,4 @@
-# caso-ficticio-panela # Horizonte Consumidor - caso fictício 3 (panela antiaderente)
+# Horizonte Consumidor - caso fictício 3 (panela antiaderente)
 Atividade preparatória para a N1 da disciplina Inteligência Artificial Jurídica (Prof. Edson
 Vaz Lopes).
 ## Problema
@@ -22,6 +22,6 @@ apoio/fonte_2.md (CDC, arts. 18, 24, 26 e 50)
 7. evidencias/revisao_humana.md
 8. entrega/orientacao_inicial.md
 ## Repositório
-https://github.com/vitoriassoares00sss/caso-ficticio-panela
+GitHub - vitoriassoares00sss/caso-ficticio-panela
 ## Como executar
 Ler docs/prompts/consulta_rag.md e enviar para a IA somente os arquivos de apoio/.
